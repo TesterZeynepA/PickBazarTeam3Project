@@ -4,32 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86faed59-7429-4de0-aa3c-91f3fe449dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeynepAytop/BagsPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeynepAytop/CheckoutPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeynepAytop/ClothingPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeynepAytop/FurniturePages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeynepAytop/HomePages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_002_003_004_005_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_007_008_009_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_011_012_013_014_015_016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactoryStaticThreadLocal.java" afterDir="false" />
+    <list default="true" id="86faed59-7429-4de0-aa3c-91f3fe449dc1" name="Changes" comment="pickBazarTeam3Project first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_002_003_004_005_006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ZeynepAytop/US_012Tests/TC_002_003_004_005_006.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +49,8 @@
       <recent name="C:\Users\zeyne\IdeaProjects\PickBazarTeam3Project\src\test\java\pages" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages.ZeynepAytop" />
+      <recent name="tests.ZeynepAytop.US_012Tests" />
       <recent name="utilities" />
     </key>
   </component>
@@ -111,7 +91,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_007_008_009_010.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_007.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PickBazarTeam3Project" />
       <extension name="coverage">
         <pattern>
@@ -120,7 +100,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.ZeynepAytop.US_012Tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ZeynepAytop.US_012Tests.TC_007_008_009_010" />
+      <option name="MAIN_CLASS_NAME" value="tests.ZeynepAytop.US_012Tests.TC_007" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -150,7 +130,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TC_011_012_013_014_015_016.test" />
-        <item itemvalue="TestNG.TC_007_008_009_010.test" />
+        <item itemvalue="TestNG.TC_007.test" />
         <item itemvalue="TestNG.TC_002_003_004_005_006.test" />
         <item itemvalue="TestNG.TC_001.test" />
       </list>
@@ -165,6 +145,18 @@
       <option name="presentableId" value="Default" />
       <updated>1700911157054</updated>
     </task>
+    <task id="LOCAL-00001" summary="pickBazarTeam3Project first commit">
+      <created>1701161602312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701161602312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pickBazarTeam3Project first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="pickBazarTeam3Project first commit" />
   </component>
 </project>

@@ -7,7 +7,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 
 public class TC_001 {
-    /*
+     /*
     "Given kullanıcı ana sayfaya gider "https://shop.clarusway.com/"
 When kullanıcı dropdown menüden Bags'ı seçer
 Then kullanıcı Bags ı seçtiğini doğrular"
@@ -20,14 +20,9 @@ Then kullanıcı Bags ı seçtiğini doğrular"
         HomePages hp = new HomePages();
         hp.selectBags();
 
-       Assert.assertTrue(hp.dropDown.getText().contains("Bags"));
+        Assert.assertTrue(hp.dropDown.getText().contains("Bags"));
 
-       Driver.closeDriver();
-
-
-
-
-
+        Driver.closeDriver();
 
     }
 }
